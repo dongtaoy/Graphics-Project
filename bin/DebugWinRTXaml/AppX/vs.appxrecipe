@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MELBOO-WIN8</Machine>
+    <WindowsUser>dongtao</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C6CDFE249AA2411D94D2EEFFE4FC7BE5C3EEFDF17B39E5F7E0F9BDB1CF8F87A8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_1.0.0.0_neutral__2xgss9s9ewh1t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_2xgss9s9ewh1t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Home</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-21T16:24:37.426</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
+      <PackagePath>Project.WinRTXaml.exe</PackagePath>
+      <Modified>2014-10-21T16:24:37.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.D3DCompiler.dll">
+      <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Audio.dll">
+      <PackagePath>SharpDX.Toolkit.Audio.dll</PackagePath>
+      <Modified>2014-10-18T04:10:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.dll">
+      <PackagePath>SharpDX.Toolkit.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Game.dll">
+      <PackagePath>SharpDX.Toolkit.Game.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Graphics.dll">
+      <PackagePath>SharpDX.Toolkit.Graphics.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Input.dll">
+      <PackagePath>SharpDX.Toolkit.Input.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Yaml.dll">
+      <PackagePath>SharpDX.Toolkit.Yaml.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2014-10-18T04:10:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T04:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T04:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T04:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T04:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg</PackagePath>
+      <Modified>2014-10-21T09:38:03.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg</PackagePath>
+      <Modified>2014-10-21T09:38:03.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg</PackagePath>
+      <Modified>2014-10-21T09:38:03.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg</PackagePath>
+      <Modified>2014-10-21T09:38:03.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.jpg">
+      <PackagePath>Content\Weapon\Bananas.jpg</PackagePath>
+      <Modified>2014-10-20T17:16:07.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\12-5-13-Texture-74.jpg">
+      <PackagePath>Content\Landscape\12-5-13-Texture-74.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG">
+      <PackagePath>Content\Landscape\153.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.001.jpg">
+      <PackagePath>Content\Landscape\153.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.002.jpg">
+      <PackagePath>Content\Landscape\153.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.003.jpg">
+      <PackagePath>Content\Landscape\153.JPG.003.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG">
+      <PackagePath>Content\Landscape\154.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.001.jpg">
+      <PackagePath>Content\Landscape\154.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.002.jpg">
+      <PackagePath>Content\Landscape\154.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.003.jpg">
+      <PackagePath>Content\Landscape\154.JPG.003.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.004.jpg">
+      <PackagePath>Content\Landscape\154.JPG.004.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.005.jpg">
+      <PackagePath>Content\Landscape\154.JPG.005.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.007.jpg">
+      <PackagePath>Content\Landscape\154.JPG.007.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\165.JPG">
+      <PackagePath>Content\Landscape\165.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG">
+      <PackagePath>Content\Landscape\168.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.001.jpg">
+      <PackagePath>Content\Landscape\168.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.002.jpg">
+      <PackagePath>Content\Landscape\168.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.003.jpg">
+      <PackagePath>Content\Landscape\168.JPG.003.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG">
+      <PackagePath>Content\Landscape\172.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.001.jpg">
+      <PackagePath>Content\Landscape\172.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.002.jpg">
+      <PackagePath>Content\Landscape\172.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG">
+      <PackagePath>Content\Landscape\176.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.001.jpg">
+      <PackagePath>Content\Landscape\176.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.002.jpg">
+      <PackagePath>Content\Landscape\176.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG">
+      <PackagePath>Content\Landscape\182.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.001.jpg">
+      <PackagePath>Content\Landscape\182.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.002.jpg">
+      <PackagePath>Content\Landscape\182.JPG.002.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\189.JPG">
+      <PackagePath>Content\Landscape\189.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\191.jpg">
+      <PackagePath>Content\Landscape\191.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.jpg">
+      <PackagePath>Content\Landscape\196.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.JPG.001.jpg">
+      <PackagePath>Content\Landscape\196.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\a3ds_brickblend20.jpg">
+      <PackagePath>Content\Landscape\a3ds_brickblend20.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Bananas.jpg">
+      <PackagePath>Content\Landscape\Bananas.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg">
+      <PackagePath>Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\BVB.jpg">
+      <PackagePath>Content\Landscape\BVB.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg">
+      <PackagePath>Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG">
+      <PackagePath>Content\Landscape\IMG_3878.JPG</PackagePath>
+      <Modified>2014-10-21T08:36:24.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.001.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.001.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.003.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.003.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.004.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.004.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg">
+      <PackagePath>Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\MultiColoredBrick-2.jpg">
+      <PackagePath>Content\Landscape\MultiColoredBrick-2.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\re3.jpg">
+      <PackagePath>Content\Landscape\re3.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg">
+      <PackagePath>Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\stacked_stone_med.jpg">
+      <PackagePath>Content\Landscape\stacked_stone_med.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TALTEESH-stone-updated.jpg">
+      <PackagePath>Content\Landscape\TALTEESH-stone-updated.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TexSheet.jpg">
+      <PackagePath>Content\Landscape\TexSheet.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\_original.jpg">
+      <PackagePath>Content\Landscape\_original.jpg</PackagePath>
+      <Modified>2014-10-21T08:36:24.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Shader\Gouraud.fx">
+      <PackagePath>Content\Shader\Gouraud.fx</PackagePath>
+      <Modified>2014-10-19T05:06:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter.csproj">
+      <PackagePath>Jitter\Jitter.csproj</PackagePath>
+      <Modified>2014-10-18T04:10:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter360.csproj">
+      <PackagePath>Jitter\Jitter360.csproj</PackagePath>
+      <Modified>2014-10-18T04:10:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\JitterPhone.csproj">
+      <PackagePath>Jitter\JitterPhone.csproj</PackagePath>
+      <Modified>2014-10-18T04:10:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\ToDo.txt">
+      <PackagePath>Jitter\ToDo.txt</PackagePath>
+      <Modified>2014-10-18T04:10:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.mtl">
+      <PackagePath>Content\Weapon\Bananas.mtl</PackagePath>
+      <Modified>2014-10-20T17:16:58.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Player\ball.mtl">
+      <PackagePath>Content\Player\ball.mtl</PackagePath>
+      <Modified>2014-10-20T17:33:29.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Enemy\enemy.mtl">
+      <PackagePath>Content\Enemy\enemy.mtl</PackagePath>
+      <Modified>2014-10-20T17:38:46.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Orange.mtl">
+      <PackagePath>Content\Weapon\Orange.mtl</PackagePath>
+      <Modified>2014-10-20T18:30:35.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\arab6.mtl">
+      <PackagePath>Content\Landscape\arab6.mtl</PackagePath>
+      <Modified>2014-10-20T19:47:31.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\shadow.tkb">
+      <PackagePath>Content\Shader\shadow.tkb</PackagePath>
+      <Modified>2014-10-21T15:40:30.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\myShader.tkb">
+      <PackagePath>Content\Shader\myShader.tkb</PackagePath>
+      <Modified>2014-10-21T11:51:50.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\Phong.tkb">
+      <PackagePath>Content\Shader\Phong.tkb</PackagePath>
+      <Modified>2014-10-21T09:33:42.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Arial16.tkb">
+      <PackagePath>Content\Arial16.tkb</PackagePath>
+      <Modified>2014-10-21T09:16:18.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Bananas.tkb">
+      <PackagePath>Content\Weapon\Bananas.tkb</PackagePath>
+      <Modified>2014-10-21T09:28:30.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Player\ball.tkb">
+      <PackagePath>Content\Player\ball.tkb</PackagePath>
+      <Modified>2014-10-21T09:25:21.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Enemy\enemy.tkb">
+      <PackagePath>Content\Enemy\enemy.tkb</PackagePath>
+      <Modified>2014-10-21T09:26:55.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Orange.tkb">
+      <PackagePath>Content\Weapon\Orange.tkb</PackagePath>
+      <Modified>2014-10-21T09:28:33.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Landscape\arab6.tkb">
+      <PackagePath>Content\Landscape\arab6.tkb</PackagePath>
+      <Modified>2014-10-21T09:16:22.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\SkyBox\Day_Skybox.tkb">
+      <PackagePath>Content\SkyBox\Day_Skybox.tkb</PackagePath>
+      <Modified>2014-10-21T01:15:57.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-20T22:39:34.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-10-21T10:56:30.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+      <Modified>2014-10-20T22:39:34.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+      <Modified>2014-10-20T22:39:34.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-20T22:39:34.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+      <Modified>2014-10-20T22:39:34.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml">
+      <PackagePath>Project.WinRTXaml.xr.xml</PackagePath>
+      <Modified>2014-10-20T22:39:34.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-21T16:23:14.952</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,307 @@
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\myShader.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Phong.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Arial16.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Bananas.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\ball.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\enemy.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Orange.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Bananas.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Gouraud.fx
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Bananas.mtl
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\ball.mtl
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\enemy.mtl
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Orange.mtl
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\App.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Common\StandardStyles.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\MainMenu.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Instructions.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\MainPage.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Options.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Project.WinRTXaml.exe
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Project.WinRTXaml.pdb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\resources.pri
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\AppxManifest.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Project.build.appxrecipe
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.D3DCompiler.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Direct2D1.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Direct3D11.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.DXGI.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.MediaFoundation.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Audio.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Game.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Graphics.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Input.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Yaml.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.XAudio2.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.XInput.dll
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.D3DCompiler.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Direct2D1.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Direct3D11.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.DXGI.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.MediaFoundation.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Audio.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Game.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Graphics.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Input.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.Toolkit.Yaml.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.XAudio2.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\SharpDX.XInput.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\App.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\App.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainMenu.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainMenu.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Instructions.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Instructions.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainPage.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainPage.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Options.g.i.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Options.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\App.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainMenu.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Instructions.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainPage.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Options.xaml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\App.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Common\StandardStyles.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainMenu.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Instructions.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MainPage.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Options.xbf
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Project.WinRTXaml.exe
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Project.WinRTXaml.pdb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\SharpDX.pri
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\SharpDX\qualifiers.txt
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\priconfig.xml
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\priconfig.xml.intermediate
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\layout.resfiles
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\layout.resfiles.intermediate
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\resources.resfiles
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\resources.resfiles.intermediate
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\pri.resfiles
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\pri.resfiles.intermediate
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\qualifiers.txt
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\obj\Debug\ProjectArchitectures.txt
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Day_Skybox.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\arab6.tkb
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\arab6.mtl
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\12-5-13-Texture-74.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\153.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.004.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.005.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.007.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\168.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\168.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\168.JPG.003.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\172.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\172.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\176.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\176.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\182.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\182.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\a3ds_brickblend20.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_01.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_01.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\BVB.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.003.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.004.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\stacked_stone_med.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\TALTEESH-stone-updated.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\_original.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\153.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\153.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\153.JPG.003.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\154.JPG.003.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\165.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\168.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\172.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\176.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\182.JPG.002.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\189.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\191.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\196.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\196.JPG.001.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\Bananas.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_06.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\MultiColoredBrick-2.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\re3.jpg
+C:\Users\dongtao\Desktop\Project v2.3 for demo\Project v2.3 for demo\Project v2.1\Project v2.3 for demo\bin\DebugWinRTXaml\Content\Landscape\TexSheet.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Arial16.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\arab6.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\12-5-13-Texture-74.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\153.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\153.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\153.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\153.JPG.003.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.003.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.004.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.005.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\154.JPG.007.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\165.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\168.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\168.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\168.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\168.JPG.003.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\172.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\172.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\172.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\176.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\176.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\176.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\182.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\182.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\182.JPG.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\189.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\191.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\196.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\196.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\a3ds_brickblend20.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\Bananas.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_01.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_01.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\Brick_texture_-_Saint-Omer_(Pas-de-Calais)_-_06.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\BVB.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.003.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\IMG_3878.JPG.004.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\MultiColoredBrick-2.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\re3.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\stacked_stone_med.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\TALTEESH-stone-updated.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\TexSheet.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\_original.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\arab6.mtl
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\App.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Common\StandardStyles.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainMenu.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Instructions.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainPage.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Options.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.pdb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\resources.pri
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.build.appxrecipe
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.D3DCompiler.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Direct2D1.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Direct3D11.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.DXGI.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.MediaFoundation.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Audio.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Game.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Graphics.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Input.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Yaml.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.XAudio2.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.XInput.dll
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.D3DCompiler.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Direct2D1.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Direct3D11.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.DXGI.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.MediaFoundation.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Audio.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Game.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Graphics.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Input.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.Toolkit.Yaml.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.XAudio2.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\SharpDX.XInput.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\App.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\App.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainMenu.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainMenu.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Instructions.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Instructions.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainPage.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainPage.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Options.g.i.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Options.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\App.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Common\StandardStyles.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainMenu.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Instructions.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainPage.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Options.xaml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\App.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainMenu.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Instructions.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MainPage.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Options.xbf
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\XamlSaveStateFile.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Project.WinRTXaml.exe
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Project.WinRTXaml.pdb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\SharpDX.pri
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\SharpDX\qualifiers.txt
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\priconfig.xml
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\priconfig.xml.intermediate
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\layout.resfiles
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\layout.resfiles.intermediate
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\resources.resfiles
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\resources.resfiles.intermediate
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\pri.resfiles
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\pri.resfiles.intermediate
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\qualifiers.txt
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\qualifiers.txt.intermediate
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\ProjectArchitectures.txt
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Player\ball.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Player\ball.mtl
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Enemy\enemy.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\SkyBox\Day_Skybox.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Enemy\enemy.mtl
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Weapon\Bananas.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Weapon\Orange.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Weapon\Bananas.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Weapon\Bananas.mtl
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Weapon\Orange.mtl
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Shader\myShader.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Shader\Phong.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Shader\Gouraud.fx
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\5sqtunnelroaddark2.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg
+C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Content\Shader\shadow.tkb
+C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Common\StandardStyles.xbf

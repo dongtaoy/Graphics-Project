@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MELBOO-WIN8</Machine>
+    <WindowsUser>dongtao</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
+      <PackagePath>Project.WinRTXaml.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.D3DCompiler.dll">
+      <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Audio.dll">
+      <PackagePath>SharpDX.Toolkit.Audio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.dll">
+      <PackagePath>SharpDX.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Game.dll">
+      <PackagePath>SharpDX.Toolkit.Game.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Graphics.dll">
+      <PackagePath>SharpDX.Toolkit.Graphics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Input.dll">
+      <PackagePath>SharpDX.Toolkit.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Yaml.dll">
+      <PackagePath>SharpDX.Toolkit.Yaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg">
+      <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.jpg">
+      <PackagePath>Content\Weapon\Bananas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\12-5-13-Texture-74.jpg">
+      <PackagePath>Content\Landscape\12-5-13-Texture-74.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG">
+      <PackagePath>Content\Landscape\153.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.001.jpg">
+      <PackagePath>Content\Landscape\153.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.002.jpg">
+      <PackagePath>Content\Landscape\153.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.003.jpg">
+      <PackagePath>Content\Landscape\153.JPG.003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG">
+      <PackagePath>Content\Landscape\154.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.001.jpg">
+      <PackagePath>Content\Landscape\154.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.002.jpg">
+      <PackagePath>Content\Landscape\154.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.003.jpg">
+      <PackagePath>Content\Landscape\154.JPG.003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.004.jpg">
+      <PackagePath>Content\Landscape\154.JPG.004.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.005.jpg">
+      <PackagePath>Content\Landscape\154.JPG.005.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.007.jpg">
+      <PackagePath>Content\Landscape\154.JPG.007.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\165.JPG">
+      <PackagePath>Content\Landscape\165.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG">
+      <PackagePath>Content\Landscape\168.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.001.jpg">
+      <PackagePath>Content\Landscape\168.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.002.jpg">
+      <PackagePath>Content\Landscape\168.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.003.jpg">
+      <PackagePath>Content\Landscape\168.JPG.003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG">
+      <PackagePath>Content\Landscape\172.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.001.jpg">
+      <PackagePath>Content\Landscape\172.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.002.jpg">
+      <PackagePath>Content\Landscape\172.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG">
+      <PackagePath>Content\Landscape\176.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.001.jpg">
+      <PackagePath>Content\Landscape\176.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.002.jpg">
+      <PackagePath>Content\Landscape\176.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG">
+      <PackagePath>Content\Landscape\182.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.001.jpg">
+      <PackagePath>Content\Landscape\182.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.002.jpg">
+      <PackagePath>Content\Landscape\182.JPG.002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\189.JPG">
+      <PackagePath>Content\Landscape\189.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\191.jpg">
+      <PackagePath>Content\Landscape\191.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.jpg">
+      <PackagePath>Content\Landscape\196.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.JPG.001.jpg">
+      <PackagePath>Content\Landscape\196.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\a3ds_brickblend20.jpg">
+      <PackagePath>Content\Landscape\a3ds_brickblend20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Bananas.jpg">
+      <PackagePath>Content\Landscape\Bananas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG">
+      <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg">
+      <PackagePath>Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\BVB.jpg">
+      <PackagePath>Content\Landscape\BVB.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg">
+      <PackagePath>Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG">
+      <PackagePath>Content\Landscape\IMG_3878.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.001.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.003.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.004.jpg">
+      <PackagePath>Content\Landscape\IMG_3878.JPG.004.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg">
+      <PackagePath>Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\MultiColoredBrick-2.jpg">
+      <PackagePath>Content\Landscape\MultiColoredBrick-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\re3.jpg">
+      <PackagePath>Content\Landscape\re3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg">
+      <PackagePath>Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\stacked_stone_med.jpg">
+      <PackagePath>Content\Landscape\stacked_stone_med.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TALTEESH-stone-updated.jpg">
+      <PackagePath>Content\Landscape\TALTEESH-stone-updated.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TexSheet.jpg">
+      <PackagePath>Content\Landscape\TexSheet.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\_original.jpg">
+      <PackagePath>Content\Landscape\_original.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Shader\Gouraud.fx">
+      <PackagePath>Content\Shader\Gouraud.fx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter.csproj">
+      <PackagePath>Jitter\Jitter.csproj</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter360.csproj">
+      <PackagePath>Jitter\Jitter360.csproj</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\JitterPhone.csproj">
+      <PackagePath>Jitter\JitterPhone.csproj</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\ToDo.txt">
+      <PackagePath>Jitter\ToDo.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.mtl">
+      <PackagePath>Content\Weapon\Bananas.mtl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Player\ball.mtl">
+      <PackagePath>Content\Player\ball.mtl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Enemy\enemy.mtl">
+      <PackagePath>Content\Enemy\enemy.mtl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Orange.mtl">
+      <PackagePath>Content\Weapon\Orange.mtl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\arab6.mtl">
+      <PackagePath>Content\Landscape\arab6.mtl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\shadow.tkb">
+      <PackagePath>Content\Shader\shadow.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\myShader.tkb">
+      <PackagePath>Content\Shader\myShader.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\Phong.tkb">
+      <PackagePath>Content\Shader\Phong.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Arial16.tkb">
+      <PackagePath>Content\Arial16.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Bananas.tkb">
+      <PackagePath>Content\Weapon\Bananas.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Player\ball.tkb">
+      <PackagePath>Content\Player\ball.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Enemy\enemy.tkb">
+      <PackagePath>Content\Enemy\enemy.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Orange.tkb">
+      <PackagePath>Content\Weapon\Orange.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Landscape\arab6.tkb">
+      <PackagePath>Content\Landscape\arab6.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\SkyBox\Day_Skybox.tkb">
+      <PackagePath>Content\SkyBox\Day_Skybox.tkb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml">
+      <PackagePath>Project.WinRTXaml.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

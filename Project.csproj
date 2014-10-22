@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5114D1A3-5423-4B73-8729-57CD90DC4BEC}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project.WinRTXaml</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>MiniCube.WinRTXaml_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <TargetFrameworkVersion />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\DebugWinRTXaml\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\ReleaseWinRTXaml\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BonusBoxController.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="BonusBoxType.cs" />
+    <Compile Include="Missile.cs" />
+    <Compile Include="BonusBox.cs" />
+    <Compile Include="Creature.cs" />
+    <Compile Include="DrawableGameObject.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="EnemyController.cs" />
+    <Compile Include="GameInput.cs" />
+    <Compile Include="ItemBox.cs" />
+    <Compile Include="Jitter\Collision\CollisionIsland.cs" />
+    <Compile Include="Jitter\Collision\CollisionSystem.cs" />
+    <Compile Include="Jitter\Collision\CollisionSystemBrute.cs" />
+    <Compile Include="Jitter\Collision\CollisionSystemPersistentSAP.cs" />
+    <Compile Include="Jitter\Collision\CollisionSystemSAP.cs" />
+    <Compile Include="Jitter\Collision\DynamicTree.cs" />
+    <Compile Include="Jitter\Collision\GJKCollide.cs" />
+    <Compile Include="Jitter\Collision\IslandManager.cs" />
+    <Compile Include="Jitter\Collision\Octree.cs" />
+    <Compile Include="Jitter\Collision\Shapes\BoxShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\CapsuleShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\CompoundShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\ConeShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\ConvexHullShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\CylinderShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\MinkowskiSumShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\Multishape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\Shape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\SphereShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\TerrainShape.cs" />
+    <Compile Include="Jitter\Collision\Shapes\TriangleMeshShape.cs" />
+    <Compile Include="Jitter\Collision\XenoCollide.cs" />
+    <Compile Include="Jitter\DataStructures\Hashset.cs" />
+    <Compile Include="Jitter\DataStructures\ReadOnlyHashset.cs" />
+    <Compile Include="Jitter\Dynamics\Arbiter.cs" />
+    <Compile Include="Jitter\Dynamics\ArbiterMap.cs" />
+    <Compile Include="Jitter\Dynamics\Constraint.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\FixedAngle.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\PointOnLine.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\PointOnPoint.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\PointPointDistance.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\SingleBody\FixedAngle.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\SingleBody\PointOnLine.cs" />
+    <Compile Include="Jitter\Dynamics\Constraints\SingleBody\PointOnPoint.cs" />
+    <Compile Include="Jitter\Dynamics\Contact.cs" />
+    <Compile Include="Jitter\Dynamics\IConstraint.cs" />
+    <Compile Include="Jitter\Dynamics\Joints\HingeJoint.cs" />
+    <Compile Include="Jitter\Dynamics\Joints\Joint.cs" />
+    <Compile Include="Jitter\Dynamics\Joints\PrismaticJoint.cs" />
+    <Compile Include="Jitter\Dynamics\Material.cs" />
+    <Compile Include="Jitter\Dynamics\RigidBody.cs" />
+    <Compile Include="Jitter\Dynamics\SoftBody.cs" />
+    <Compile Include="Jitter\IDebugDraw.cs" />
+    <Compile Include="Jitter\LinearMath\JBBox.cs" />
+    <Compile Include="Jitter\LinearMath\JConvexHull.cs" />
+    <Compile Include="Jitter\LinearMath\JMath.cs" />
+    <Compile Include="Jitter\LinearMath\JMatrix.cs" />
+    <Compile Include="Jitter\LinearMath\JQuaternion.cs" />
+    <Compile Include="Jitter\LinearMath\JVector.cs" />
+    <Compile Include="Jitter\Properties\AssemblyInfo.cs" />
+    <Compile Include="Jitter\ResourcePool.cs" />
+    <Compile Include="Jitter\ThreadManager.cs" />
+    <Compile Include="Jitter\World.cs" />
+    <Compile Include="Landscape.cs" />
+    <Compile Include="MainMenu.xaml.cs">
+      <DependentUpon>MainMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Instructions.xaml.cs">
+      <DependentUpon>Instructions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ModelLoader.cs" />
+    <Compile Include="Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Projectile.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectGame.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GameObject.cs" />
+    <Compile Include="RPG.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="Skybox.cs" />
+    <Compile Include="Weapon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="PackageXaml.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\SmallLogo.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <ToolkitFont Include="Content\Arial16.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitFont>
+    <Content Include="Content\Landscape\5sqtunnelroaddark2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitFxc Include="Content\Shader\shadow.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitFxc>
+    <Content Include="Content\Weapon\Bananas.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitTexture Include="Content\SkyBox\Day_Skybox.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitTexture>
+    <Content Include="Content\Shader\Gouraud.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitFxc Include="Content\Shader\myShader.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitFxc>
+    <ToolkitFxc Include="Content\Shader\Phong.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitFxc>
+    <Content Include="Content\Landscape\12-5-13-Texture-74.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\153.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\153.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\153.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\153.JPG.003.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.003.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.004.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.005.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\154.JPG.007.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\165.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\168.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\168.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\168.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\168.JPG.003.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\172.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\172.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\172.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\176.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\176.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\176.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\182.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\182.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\182.JPG.002.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\189.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\191.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\196.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\196.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\a3ds_brickblend20.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\Bananas.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\BVB.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\IMG_3878.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\IMG_3878.JPG.001.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\IMG_3878.JPG.003.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\IMG_3878.JPG.004.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\MultiColoredBrick-2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\re3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\stacked_stone_med.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\TALTEESH-stone-updated.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\TexSheet.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Landscape\_original.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Jitter\Jitter.csproj" />
+    <Content Include="Jitter\Jitter360.csproj" />
+    <Content Include="Jitter\JitterPhone.csproj" />
+    <Content Include="Jitter\ToDo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainMenu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Instructions.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Options.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="SharpDX">
+      <HintPath>SharpDX\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.D3DCompiler">
+      <HintPath>SharpDX\SharpDX.D3DCompiler.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Direct2D1">
+      <HintPath>SharpDX\SharpDX.Direct2D1.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Direct3D11">
+      <HintPath>SharpDX\SharpDX.Direct3D11.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.DXGI">
+      <HintPath>SharpDX\SharpDX.DXGI.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.MediaFoundation">
+      <HintPath>SharpDX\SharpDX.MediaFoundation.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit">
+      <HintPath>SharpDX\SharpDX.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit.Audio">
+      <HintPath>SharpDX\SharpDX.Toolkit.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit.Game">
+      <HintPath>SharpDX\SharpDX.Toolkit.Game.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit.Graphics">
+      <HintPath>SharpDX\SharpDX.Toolkit.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit.Input">
+      <HintPath>SharpDX\SharpDX.Toolkit.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Toolkit.Yaml">
+      <HintPath>SharpDX\SharpDX.Toolkit.Yaml.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.XAudio2">
+      <HintPath>SharpDX\SharpDX.XAudio2.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.XInput">
+      <HintPath>SharpDX\SharpDX.XInput.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Weapon\Bananas.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\Weapon\Bananas.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <Content Include="Content\Player\ball.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\Player\ball.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <Content Include="Content\Enemy\enemy.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\Enemy\enemy.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <Content Include="Content\Weapon\Orange.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\Weapon\Orange.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <Content Include="Content\Landscape\arab6.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\Landscape\arab6.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <None Include="Jitter\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Jitter\bin\Debug\" />
+    <Folder Include="Jitter\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <Import Project="SharpDX\SharpDX.Toolkit.Targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
