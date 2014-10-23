@@ -65,12 +65,9 @@ ShadowMapPS_IN ShadowMapVS(ShadowMapVS_IN input)
 {
 
 	ShadowMapPS_IN output = (ShadowMapPS_IN)0;
-	if(input.Position.y < 0.2)
-	{
-		return output;
-	}
+	
 	output.Position = GetPositionFromLight(input.Position);
-	output.Depth.x = 1.0 - (output.Position.z / output.Position.w);
+	output.Depth.x = 1 - output.Position.z / output.Position.w;
 	return output;
 }
 
@@ -143,13 +140,9 @@ float4 ShadowRenderPS(ShadowRenderPS_IN input) : SV_Target
 
 	// Check the shadowdepth against the depth of this pixel
 	// a fudge factor is added to account for floating-point error
-	if (shadowdepth - 0.03 > ourdepth )
+	if (shadowdepth - 0.05 > ourdepth )
 	{
-		// we're in shadow, cut the light
-		if(ourdepth < 0.2)
-		{
 			vTotalLightDiffuse = float4(0, 0, 0, 1);
-		}
 	};
 
 	
@@ -162,6 +155,10 @@ technique ShadowMap
 {
     pass Pass1
     {
+		CullMode = NONE;
+		ZEnable = TRUE;
+		ZWriteEnable = TRUE;
+		AlphaBlendEnable = FALSE;
 		Profile = 9.3;
         VertexShader = ShadowMapVS;
         PixelShader = ShadowMapPS;

@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-23T00:41:13.289</Modified>
+      <Modified>2014-10-23T01:04:18.360</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
       <PackagePath>Project.WinRTXaml.exe</PackagePath>
-      <Modified>2014-10-23T00:41:12.664</Modified>
+      <Modified>2014-10-23T01:02:39.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.D3DCompiler.dll">
       <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
@@ -374,7 +374,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\shadow.tkb">
       <PackagePath>Content\Shader\shadow.tkb</PackagePath>
-      <Modified>2014-10-22T12:35:09.834</Modified>
+      <Modified>2014-10-23T01:04:17.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\newShader.tkb">
       <PackagePath>Content\Shader\newShader.tkb</PackagePath>
@@ -450,7 +450,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-10-22T12:45:32.737</Modified>
+      <Modified>2014-10-23T01:04:18.313</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -158,3 +158,11 @@ C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWi
 C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Content\SkyBox\Galaxy.jpg
 C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Content\SkyBox\Galaxy.mtl
 C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\layout.resfiles
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\layout.resfiles.intermediate
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\Resources.resfiles
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\Resources.resfiles.intermediate
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\pri.resfiles
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\pri.resfiles.intermediate
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\priconfig.xml
+C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\SharpDX\priconfig.xml.intermediate
