@@ -67,6 +67,8 @@ Content\Landscape\TALTEESH-stone-updated.jpg
 Content\Landscape\TexSheet.jpg
 Content\Player\ball.mtl
 Content\Shader\Gouraud.fx
+Content\SkyBox\Galaxy.jpg
+Content\SkyBox\Galaxy.mtl
 Content\Weapon\Bananas.jpg
 Content\Weapon\Bananas.mtl
 Content\Weapon\Orange.mtl
@@ -79,8 +81,10 @@ Content\Enemy\enemy.tkb
 Content\Landscape\arab6.tkb
 Content\Player\ball.tkb
 Content\Shader\myShader.tkb
+Content\Shader\newShader.tkb
 Content\Shader\Phong.tkb
 Content\Shader\shadow.tkb
 Content\SkyBox\Day_Skybox.tkb
+Content\SkyBox\Galaxy.tkb
 Content\Weapon\Bananas.tkb
 Content\Weapon\Orange.tkb

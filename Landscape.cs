@@ -14,7 +14,7 @@ using SharpDX.Direct3D11;
 using SharpDX.DXGI;
 namespace Project
 {
-    public class Landscape:DrawableGameObject
+    public class Landscape : DrawableGameObject
     {
         private List<RigidBody> rigidBodies;
         public Matrix lightView;
@@ -26,22 +26,23 @@ namespace Project
 
         public SharpDX.Direct3D11.Texture2D renderToTexture;
         public RenderTargetView renderToTextureRTV;
-        
-        public Landscape(string modelName, Vector3 pos, ProjectGame game): base(modelName, pos, game)
+
+        public Landscape(string modelName, Vector3 pos, ProjectGame game)
+            : base(modelName, pos, game)
         {
 
-            lightPos = new Vector3(10, 30, 10);
+            lightPos = new Vector3(25, 20, 0);
             lightView = Matrix.LookAtRH(lightPos, new Vector3(0, 0, 0), Vector3.UnitY);
-            lightProj = Matrix.PerspectiveFovRH((float)(Math.PI / 2), 1f, 5f, 100f);
-            lightsViewProjectionMatrix = lightView * lightProj;
+            lightProj = Matrix.PerspectiveFovRH((float)(Math.PI / 2), 1f, 5f, 1000f);
+            lightsViewProjectionMatrix = lightView * game.Camera.Projection;
 
-            
+
             rigidBodies = new List<RigidBody>();
 
             RigidBody r1 = new RigidBody(new BoxShape(5.667f, 4.964f, 3.078f));
             r1.IsStatic = true;
             r1.Tag = "r1";
-            r1.Position = ProjectGame.toJVector(new Vector3(18.5f+0.2f, 2.45f, -4.52f - 0.4f));
+            r1.Position = ProjectGame.toJVector(new Vector3(18.5f + 0.2f, 2.45f, -4.52f - 0.4f));
             r1.Orientation = ProjectGame.toJMatrix(Matrix.RotationY(DegreeToRadian(-2.5f)));
             game.world.AddBody(r1);
 
@@ -68,7 +69,7 @@ namespace Project
             l3.Orientation = ProjectGame.toJMatrix(Matrix.RotationY(DegreeToRadian(89.962f)));
             game.world.AddBody(l3);
 
-            RigidBody m2 = new RigidBody(new BoxShape(2.185f, 0.962f+1.193f+1.256f, 2.175f));
+            RigidBody m2 = new RigidBody(new BoxShape(2.185f, 0.962f + 1.193f + 1.256f, 2.175f));
             m2.IsStatic = true;
             m2.Tag = "m2";
             m2.Position = ProjectGame.toJVector(new Vector3(5.353f + 0.2f, (0.962f + 1.193f + 1.256f) / 2, 2.66f - 0.4f));
@@ -103,7 +104,7 @@ namespace Project
             m12.Position = ProjectGame.toJVector(new Vector3(19.35f + 0.2f, 0.49f, 4.3f - 0.4f));
             m12.Orientation = ProjectGame.toJMatrix(Matrix.RotationY(DegreeToRadian(-182.374f)));
             game.world.AddBody(m12);
-
+            
 
             RigidBody m13 = new RigidBody(new BoxShape(0.3f, 2.838f, 2.0f));
             m13.IsStatic = true;
@@ -112,10 +113,10 @@ namespace Project
             m13.Orientation = ProjectGame.toJMatrix(Matrix.RotationY(DegreeToRadian(-2.5f)));
             game.world.AddBody(m13);
 
-            RigidBody ground = new RigidBody(new BoxShape(53.6f,0f,60.5f));
+            RigidBody ground = new RigidBody(new BoxShape(53.6f, 0f, 60.5f));
             ground.IsStatic = true;
             ground.Tag = "ground";
-            ground.Position = new JVector(0.18680f,-0.9f,-8.08779f);
+            ground.Position = new JVector(0.18680f, -0.9f, -8.08779f);
 
             this.rigidBody = ground;
             game.world.AddBody(ground);
@@ -148,7 +149,7 @@ namespace Project
 
         public override void Update(GameTime gametime)
         {
-
+            
         }
 
         public override void Draw(GameTime gametime)
@@ -175,6 +176,13 @@ namespace Project
             {
                 foreach (ModelMeshPart part in mesh.MeshParts)
                 {
+                    foreach (var x in part.VertexBuffer.Resource.Layout.BufferLayouts)
+                    {
+                        foreach(var y in x.VertexElements)
+                        {
+                            y.ToString();
+                        }
+                    }
                     game.landEffect.Techniques[0].Passes[0].Apply();
                     part.Draw(game.GraphicsDevice);
                 }
@@ -210,48 +218,8 @@ namespace Project
                     }
 
                 }
+
             }
-            //var x = game.landEffect.Techniques[1];
-            //game.GraphicsDevice.SetRenderTargets(depth, game.GraphicsDevice.BackBuffer);
-            //game.effect.Parameters["World"].SetValue(world);
-            //game.effect.Parameters["View"].SetValue(game.Camera.View);
-            //game.effect.Parameters["Projection"].SetValue(game.Camera.Projection);
-            //game.effect.Parameters["cameraPos"].SetValue(game.Camera.Position);
-            //game.effect.Parameters["worldInvTrp"].SetValue(Matrix.Invert(world));
-            //foreach (ModelMesh mesh in model.Meshes)
-            //{
-
-            //    foreach (ModelMeshPart part in mesh.MeshParts)
-            //    {
-
-            //        if (part.Material.HasProperty(TextureKeys.DiffuseTexture))
-            //        {
-            //            Texture y = part.Material.GetProperty(TextureKeys.DiffuseTexture).ElementAt(0).Texture;
-            //            game.effect.Parameters["g_MeshTexture"].SetResource(y);
-
-            //            foreach (EffectPass pass in game.effect.CurrentTechnique.Passes)
-            //            {
-            //                pass.Apply();
-            //            }
-            //            if (y != null)
-            //            {
-            //                part.Draw(game.GraphicsDevice);
-            //            }
-
-
-            //        }
-            //        else
-            //        {
-
-            //        }
-
-            //    }
-            //}
-
-            //game.spriteBatch.Begin();
-            //game.spriteBatch.Draw(renderToTextureSRV, new Vector2(0, 0), Color.White);
-            //game.spriteBatch.End();
-
         }
         private float DegreeToRadian(float angle)
         {

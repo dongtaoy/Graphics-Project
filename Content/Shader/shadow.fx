@@ -1,12 +1,12 @@
 ﻿float4x4 lwvp;
 
 float3 g_LightPos;					// Position of light
-float3 g_LightDir = float3(0, -1, 0);					// Direction of light (temp)
+float3 g_LightDir = float3(0, -4, 0);					// Direction of light (temp)
 float4x4 g_mLightView;				// View matrix of light
 float4x4 g_mLightProj;				// Projection matrix of light
 
-float4 g_LightDiffuse = float4(0.8, 0.8, 0.8, 1.0);;				// Light's diffuse color
-float4 g_LightAmbient = float4(0.05, 0.05, 0.05, 1.0);              // Light's ambient color
+float4 g_LightDiffuse = float4(0.5, 0.5, 0.5, 1.0);;				// Light's diffuse color
+float4 g_LightAmbient = float4(0.3, 0.3, 0.3, 1.0);              // Light's ambient color
 
 float4x4 g_mWorld;                  // World matrix for object
 float3 g_CameraPos;				    // Camera position for scene View 
@@ -63,15 +63,20 @@ float4 GetPositionFromLight(float4 position)
 
 ShadowMapPS_IN ShadowMapVS(ShadowMapVS_IN input)
 {
-	ShadowMapPS_IN output;
+
+	ShadowMapPS_IN output = (ShadowMapPS_IN)0;
+	if(input.Position.y < 0.2)
+	{
+		return output;
+	}
 	output.Position = GetPositionFromLight(input.Position);
-	output.Depth.x = 1 - (output.Position.z / output.Position.w);
+	output.Depth.x = 1.0 - (output.Position.z / output.Position.w);
 	return output;
 }
 
 float4 ShadowMapPS(ShadowMapPS_IN input) : SV_Target
 {
-	return float4(input.Depth.x, 0, 0, 1);
+	return input.Depth.x;
 	
 }
 
@@ -138,10 +143,13 @@ float4 ShadowRenderPS(ShadowRenderPS_IN input) : SV_Target
 
 	// Check the shadowdepth against the depth of this pixel
 	// a fudge factor is added to account for floating-point error
-	if (shadowdepth - 0.03 > ourdepth)
+	if (shadowdepth - 0.03 > ourdepth )
 	{
 		// we're in shadow, cut the light
-		vTotalLightDiffuse = float4(0, 0, 0, 1);
+		if(ourdepth < 0.2)
+		{
+			vTotalLightDiffuse = float4(0, 0, 0, 1);
+		}
 	};
 
 	

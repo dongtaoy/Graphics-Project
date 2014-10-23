@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>C6CDFE249AA2411D94D2EEFFE4FC7BE5C3EEFDF17B39E5F7E0F9BDB1CF8F87A8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_1.0.0.0_neutral__2xgss9s9ewh1t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_2xgss9s9ewh1t!App</RegisteredUserModeAppID>
@@ -17,424 +17,440 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-21T16:24:37.426</Modified>
+      <Modified>2014-10-23T00:41:13.289</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
       <PackagePath>Project.WinRTXaml.exe</PackagePath>
-      <Modified>2014-10-21T16:24:37.113</Modified>
+      <Modified>2014-10-23T00:41:12.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.D3DCompiler.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.D3DCompiler.dll">
       <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct2D1.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Direct2D1.dll">
       <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Direct3D11.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Direct3D11.dll">
       <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.dll">
       <PackagePath>SharpDX.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.DXGI.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.DXGI.dll">
       <PackagePath>SharpDX.DXGI.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.MediaFoundation.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.MediaFoundation.dll">
       <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Audio.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.Audio.dll">
       <PackagePath>SharpDX.Toolkit.Audio.dll</PackagePath>
       <Modified>2014-10-18T04:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.dll">
       <PackagePath>SharpDX.Toolkit.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Game.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.Game.dll">
       <PackagePath>SharpDX.Toolkit.Game.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.Graphics.dll">
       <PackagePath>SharpDX.Toolkit.Graphics.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Input.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.Input.dll">
       <PackagePath>SharpDX.Toolkit.Input.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.Toolkit.Yaml.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.Toolkit.Yaml.dll">
       <PackagePath>SharpDX.Toolkit.Yaml.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XAudio2.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.XAudio2.dll">
       <PackagePath>SharpDX.XAudio2.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\SharpDX\SharpDX.XInput.dll">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\SharpDX\SharpDX.XInput.dll">
       <PackagePath>SharpDX.XInput.dll</PackagePath>
       <Modified>2014-10-18T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-10-18T04:10:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-10-18T04:10:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-10-18T04:10:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-10-18T04:10:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg">
       <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg</PackagePath>
-      <Modified>2014-10-21T09:38:03.539</Modified>
+      <Modified>2014-10-21T09:38:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg">
       <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.001.jpg</PackagePath>
-      <Modified>2014-10-21T09:38:03.544</Modified>
+      <Modified>2014-10-21T09:38:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg">
       <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.002.jpg</PackagePath>
-      <Modified>2014-10-21T09:38:03.555</Modified>
+      <Modified>2014-10-21T09:38:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg">
       <PackagePath>Content\Landscape\5sqtunnelroaddark2.jpg.003.jpg</PackagePath>
-      <Modified>2014-10-21T09:38:03.561</Modified>
+      <Modified>2014-10-21T09:38:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\SkyBox\Galaxy.jpg">
+      <PackagePath>Content\SkyBox\Galaxy.jpg</PackagePath>
+      <Modified>2014-10-22T12:42:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Weapon\Bananas.jpg">
       <PackagePath>Content\Weapon\Bananas.jpg</PackagePath>
-      <Modified>2014-10-20T17:16:07.135</Modified>
+      <Modified>2014-10-20T17:16:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\12-5-13-Texture-74.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\12-5-13-Texture-74.jpg">
       <PackagePath>Content\Landscape\12-5-13-Texture-74.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.631</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\153.JPG">
       <PackagePath>Content\Landscape\153.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.635</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\153.JPG.001.jpg">
       <PackagePath>Content\Landscape\153.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.640</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\153.JPG.002.jpg">
       <PackagePath>Content\Landscape\153.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.644</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\153.JPG.003.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\153.JPG.003.jpg">
       <PackagePath>Content\Landscape\153.JPG.003.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.648</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG">
       <PackagePath>Content\Landscape\154.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.652</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.001.jpg">
       <PackagePath>Content\Landscape\154.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.655</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.002.jpg">
       <PackagePath>Content\Landscape\154.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.660</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.003.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.003.jpg">
       <PackagePath>Content\Landscape\154.JPG.003.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.664</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.004.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.004.jpg">
       <PackagePath>Content\Landscape\154.JPG.004.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.668</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.005.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.005.jpg">
       <PackagePath>Content\Landscape\154.JPG.005.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.671</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\154.JPG.007.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\154.JPG.007.jpg">
       <PackagePath>Content\Landscape\154.JPG.007.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.675</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\165.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\165.JPG">
       <PackagePath>Content\Landscape\165.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.679</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\168.JPG">
       <PackagePath>Content\Landscape\168.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.683</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\168.JPG.001.jpg">
       <PackagePath>Content\Landscape\168.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.688</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\168.JPG.002.jpg">
       <PackagePath>Content\Landscape\168.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.691</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\168.JPG.003.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\168.JPG.003.jpg">
       <PackagePath>Content\Landscape\168.JPG.003.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.695</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\172.JPG">
       <PackagePath>Content\Landscape\172.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.699</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\172.JPG.001.jpg">
       <PackagePath>Content\Landscape\172.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.704</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\172.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\172.JPG.002.jpg">
       <PackagePath>Content\Landscape\172.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.707</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\176.JPG">
       <PackagePath>Content\Landscape\176.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.711</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\176.JPG.001.jpg">
       <PackagePath>Content\Landscape\176.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.714</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\176.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\176.JPG.002.jpg">
       <PackagePath>Content\Landscape\176.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.719</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\182.JPG">
       <PackagePath>Content\Landscape\182.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.722</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\182.JPG.001.jpg">
       <PackagePath>Content\Landscape\182.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.726</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\182.JPG.002.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\182.JPG.002.jpg">
       <PackagePath>Content\Landscape\182.JPG.002.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.729</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\189.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\189.JPG">
       <PackagePath>Content\Landscape\189.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.734</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\191.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\191.jpg">
       <PackagePath>Content\Landscape\191.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.739</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\196.jpg">
       <PackagePath>Content\Landscape\196.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.742</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\196.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\196.JPG.001.jpg">
       <PackagePath>Content\Landscape\196.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.746</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\a3ds_brickblend20.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\a3ds_brickblend20.jpg">
       <PackagePath>Content\Landscape\a3ds_brickblend20.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.749</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Bananas.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\Bananas.jpg">
       <PackagePath>Content\Landscape\Bananas.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.751</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG">
       <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.758</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg">
       <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_01.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.762</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG">
       <PackagePath>Content\Landscape\Brick_texture_-_Saint-Omer_%28Pas-de-Calais%29_-_06.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.767</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg">
       <PackagePath>Content\Landscape\brick_texture_3___stock_by_agf81-d34eo6g.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.770</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\BVB.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\BVB.jpg">
       <PackagePath>Content\Landscape\BVB.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.773</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg">
       <PackagePath>Content\Landscape\ice_texture_for_oss_funfair_by_honey_stock.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.775</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\IMG_3878.JPG">
       <PackagePath>Content\Landscape\IMG_3878.JPG</PackagePath>
-      <Modified>2014-10-21T08:36:24.778</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.001.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\IMG_3878.JPG.001.jpg">
       <PackagePath>Content\Landscape\IMG_3878.JPG.001.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.782</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.003.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\IMG_3878.JPG.003.jpg">
       <PackagePath>Content\Landscape\IMG_3878.JPG.003.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.784</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\IMG_3878.JPG.004.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\IMG_3878.JPG.004.jpg">
       <PackagePath>Content\Landscape\IMG_3878.JPG.004.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.787</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg">
       <PackagePath>Content\Landscape\Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.792</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\MultiColoredBrick-2.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\MultiColoredBrick-2.jpg">
       <PackagePath>Content\Landscape\MultiColoredBrick-2.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.798</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\re3.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\re3.jpg">
       <PackagePath>Content\Landscape\re3.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.811</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg">
       <PackagePath>Content\Landscape\sand_texture___1_by_agf81-d3iov6l.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.814</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\stacked_stone_med.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\stacked_stone_med.jpg">
       <PackagePath>Content\Landscape\stacked_stone_med.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.817</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TALTEESH-stone-updated.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\TALTEESH-stone-updated.jpg">
       <PackagePath>Content\Landscape\TALTEESH-stone-updated.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.823</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\TexSheet.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\TexSheet.jpg">
       <PackagePath>Content\Landscape\TexSheet.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.825</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\_original.jpg">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\_original.jpg">
       <PackagePath>Content\Landscape\_original.jpg</PackagePath>
-      <Modified>2014-10-21T08:36:24.604</Modified>
+      <Modified>2014-10-21T08:36:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Shader\Gouraud.fx">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Shader\Gouraud.fx">
       <PackagePath>Content\Shader\Gouraud.fx</PackagePath>
       <Modified>2014-10-19T05:06:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter.csproj">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Jitter\Jitter.csproj">
       <PackagePath>Jitter\Jitter.csproj</PackagePath>
       <Modified>2014-10-18T04:10:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\Jitter360.csproj">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Jitter\Jitter360.csproj">
       <PackagePath>Jitter\Jitter360.csproj</PackagePath>
       <Modified>2014-10-18T04:10:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\JitterPhone.csproj">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Jitter\JitterPhone.csproj">
       <PackagePath>Jitter\JitterPhone.csproj</PackagePath>
       <Modified>2014-10-18T04:10:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Jitter\ToDo.txt">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Jitter\ToDo.txt">
       <PackagePath>Jitter\ToDo.txt</PackagePath>
       <Modified>2014-10-18T04:10:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Bananas.mtl">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Weapon\Bananas.mtl">
       <PackagePath>Content\Weapon\Bananas.mtl</PackagePath>
       <Modified>2014-10-20T17:16:58.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Player\ball.mtl">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Player\ball.mtl">
       <PackagePath>Content\Player\ball.mtl</PackagePath>
       <Modified>2014-10-20T17:33:29.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Enemy\enemy.mtl">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Enemy\enemy.mtl">
       <PackagePath>Content\Enemy\enemy.mtl</PackagePath>
       <Modified>2014-10-20T17:38:46.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Weapon\Orange.mtl">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Weapon\Orange.mtl">
       <PackagePath>Content\Weapon\Orange.mtl</PackagePath>
       <Modified>2014-10-20T18:30:35.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\Content\Landscape\arab6.mtl">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\Landscape\arab6.mtl">
       <PackagePath>Content\Landscape\arab6.mtl</PackagePath>
       <Modified>2014-10-20T19:47:31.685</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\shadow.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\Content\SkyBox\Galaxy.mtl">
+      <PackagePath>Content\SkyBox\Galaxy.mtl</PackagePath>
+      <Modified>2014-10-22T12:44:15.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\shadow.tkb">
       <PackagePath>Content\Shader\shadow.tkb</PackagePath>
-      <Modified>2014-10-21T15:40:30.568</Modified>
+      <Modified>2014-10-22T12:35:09.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\myShader.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\newShader.tkb">
+      <PackagePath>Content\Shader\newShader.tkb</PackagePath>
+      <Modified>2014-10-22T12:29:50.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\myShader.tkb">
       <PackagePath>Content\Shader\myShader.tkb</PackagePath>
-      <Modified>2014-10-21T11:51:50.090</Modified>
+      <Modified>2014-10-22T12:29:50.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Shader\Phong.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Shader\Phong.tkb">
       <PackagePath>Content\Shader\Phong.tkb</PackagePath>
-      <Modified>2014-10-21T09:33:42.303</Modified>
+      <Modified>2014-10-22T12:29:50.476</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Arial16.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Arial16.tkb">
       <PackagePath>Content\Arial16.tkb</PackagePath>
-      <Modified>2014-10-21T09:16:18.656</Modified>
+      <Modified>2014-10-22T12:29:50.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Bananas.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Weapon\Bananas.tkb">
       <PackagePath>Content\Weapon\Bananas.tkb</PackagePath>
-      <Modified>2014-10-21T09:28:30.540</Modified>
+      <Modified>2014-10-22T12:29:51.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Player\ball.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Player\ball.tkb">
       <PackagePath>Content\Player\ball.tkb</PackagePath>
-      <Modified>2014-10-21T09:25:21.124</Modified>
+      <Modified>2014-10-22T12:29:51.272</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Enemy\enemy.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Enemy\enemy.tkb">
       <PackagePath>Content\Enemy\enemy.tkb</PackagePath>
-      <Modified>2014-10-21T09:26:55.338</Modified>
+      <Modified>2014-10-22T12:29:51.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Weapon\Orange.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Weapon\Orange.tkb">
       <PackagePath>Content\Weapon\Orange.tkb</PackagePath>
-      <Modified>2014-10-21T09:28:33.736</Modified>
+      <Modified>2014-10-22T12:29:54.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\Landscape\arab6.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\Landscape\arab6.tkb">
       <PackagePath>Content\Landscape\arab6.tkb</PackagePath>
-      <Modified>2014-10-21T09:16:22.991</Modified>
+      <Modified>2014-10-22T12:29:55.257</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\obj\Debug\Content\SkyBox\Day_Skybox.tkb">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\SkyBox\Galaxy.tkb">
+      <PackagePath>Content\SkyBox\Galaxy.tkb</PackagePath>
+      <Modified>2014-10-22T12:44:16.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\obj\Debug\Content\SkyBox\Day_Skybox.tkb">
       <PackagePath>Content\SkyBox\Day_Skybox.tkb</PackagePath>
-      <Modified>2014-10-21T01:15:57.611</Modified>
+      <Modified>2014-10-21T01:15:57.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\App.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-10-20T22:39:34.823</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Common\StandardStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Common\StandardStyles.xbf">
       <PackagePath>Common\StandardStyles.xbf</PackagePath>
-      <Modified>2014-10-21T10:56:30.249</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainMenu.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\MainMenu.xbf">
       <PackagePath>MainMenu.xbf</PackagePath>
-      <Modified>2014-10-20T22:39:34.823</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Instructions.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Instructions.xbf">
       <PackagePath>Instructions.xbf</PackagePath>
-      <Modified>2014-10-20T22:39:34.823</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-10-20T22:39:34.838</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Options.xbf">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Options.xbf">
       <PackagePath>Options.xbf</PackagePath>
-      <Modified>2014-10-20T22:39:34.838</Modified>
+      <Modified>2014-10-22T12:29:56.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml">
       <PackagePath>Project.WinRTXaml.xr.xml</PackagePath>
-      <Modified>2014-10-20T22:39:34.776</Modified>
+      <Modified>2014-10-22T12:29:56.913</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dongtao\Source\Workspaces\Graphics Project\bin\DebugWinRTXaml\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dongtao\Dropbox\School\2014 SEM2\COMP30019\Graphics Project\bin\DebugWinRTXaml\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-10-21T16:23:14.952</Modified>
+      <Modified>2014-10-22T12:45:32.737</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

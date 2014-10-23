@@ -122,7 +122,7 @@ namespace Project
             camera = new Camera(this, new Vector3(0, 100, -10), new Vector3(0, 0, 0));
             landscape = new Landscape("Landscape/arab6", new Vector3(0, 0, 0), this);
             //var skybox = new SkyBox("SkyBox/Day_Skybox", new Vector3(0, 0, 0), this);
-
+            var skydome = new Galaxy("SkyBox/Galaxy", new Vector3(0, 0, 0), this);
             world.CollisionSystem.Detect(player.RigidBody, landscape.RigidBody);
             //bonusBox = new BonusBox("weaponbox", new Vector3(0, 10, 0), this, BonusBoxType.Missile);
             //landscape = await Landscape.LoadLandscape("Map", new Vector3(0, 0, 0), this);

@@ -47,6 +47,7 @@
     <Compile Include="BonusBoxController.cs" />
     <Compile Include="Camera.cs" />
     <Compile Include="BonusBoxType.cs" />
+    <Compile Include="Galaxy.cs" />
     <Compile Include="Missile.cs" />
     <Compile Include="BonusBox.cs" />
     <Compile Include="Creature.cs" />
@@ -160,6 +161,12 @@
     <ToolkitFxc Include="Content\Shader\shadow.fx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </ToolkitFxc>
+    <ToolkitFxc Include="Content\Shader\newShader.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitFxc>
+    <Content Include="Content\SkyBox\Galaxy.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Content\Weapon\Bananas.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -429,6 +436,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <ToolkitModel Include="Content\Landscape\arab6.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </ToolkitModel>
+    <Content Include="Content\SkyBox\Galaxy.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <ToolkitModel Include="Content\SkyBox\Galaxy.obj">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </ToolkitModel>
     <None Include="Jitter\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
